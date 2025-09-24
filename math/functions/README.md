@@ -68,7 +68,7 @@ $f$ admet un minimum pour $x = \alpha$, ce minimum est égal à $\beta$.
 - Si $a < 0$ :  
 $f$ admet un maximum pour $x = \alpha$, ce maximum est égal à $\beta$.  
 $\alpha = \frac{-b}{2a}$  
-$\beta = f(\alpha)$
+$\beta = f(\alpha)$  
 ![](images/4.png)
 ![](images/5.png)
 

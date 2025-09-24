@@ -128,8 +128,6 @@ e_{i} &= (a_{i+1} - \left( \left( (a_i \ll 5) \mid (a_i \gg 27) \right) + f_{i+1
 
 ## L'équation de w
 
-The operation from $w_{16}$ to $w_{79}$ is :
-
 Dans SHA-1, $w_0$ à $w_{15}$ correspondent aux données initiales (non transformées), et le reste, $w_{16}$ à $w_{79}$ sont calculés grâce aux données initiales.  
 L'opération de transformation de $w_{16}$ à $w_{79}$ est :  
 

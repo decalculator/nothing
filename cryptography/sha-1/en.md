@@ -292,7 +292,7 @@ f\prime_{78} \neq f_{78}
 ```
 
 So, the question becomes : how to prove that $f\prime_{78} \neq f_{78}$ ?  
-Nous ne pouvais pas connaître $f_{78}$, car sinon nous pourrions en déduire $d\prime_{77} \to e\prime_{78}$.  
+We cannot know $f_{78}$, because otherwise we could deduce $d\prime_{77} \to e\prime_{78}$.  
 <br>
 We therefore need to prove that $f\prime_{78} \neq f_{78}$ without knowing the value of $f_{78}$.  
 <br>
@@ -322,7 +322,7 @@ And all of this also applies to $f_{77}$ and $f_{76}$.
 Let's take an example :  
 ```
 i=79 : a = 1720377700, b = 1300218179, c = 2933058290, d = 1176787107, e = 3928391792, w =  
-i=78 : a = 1300218179, b = 3142298570, c = 1176787107, d = 3928391792, e =           , w = 0
+i=78 : a = 1300218179, b = 3142298570, c = 1176787107, d = 3928391792, e =           , w =
 ```
 
 ```math
